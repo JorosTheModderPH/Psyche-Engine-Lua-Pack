@@ -7,4 +7,5 @@ assignees: ''
 
 ---
 
-If you made a lua that you don't want to add to my lua pack, then create this issue and send a proof to remove your lua here.
+If you made a script that you don't want to add to my lua pack, then create this issue and send a proof to remove your lua here.
+--Remove this before you say something.
