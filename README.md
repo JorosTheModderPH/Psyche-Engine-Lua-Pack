@@ -1,5 +1,5 @@
 # Psyche-Engine-Lua-Pack
-This is all of my lua pack. You are free to use my lua pack. For those who want to remove the script because I stole it, you can create an issue and send proof that you made the script. 
+Psyche Engine LUA pack. You are free to use my lua pack. Read any file you want and copy and paste it into your mods or scripts.
 
 Please note that some of the scripts are not mine. If I didn't make the lua, I'll give credit inside the files.
  
