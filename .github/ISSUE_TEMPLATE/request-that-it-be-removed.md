@@ -1,6 +1,6 @@
 ---
 name: Request that it be removed
-about: Remove your lua in this respiratory
+about: Remove your script in this respiratory
 title: ''
 labels: documentation
 assignees: ''
