@@ -1,5 +1,5 @@
 ---
-name: request that it be removed
+name: Request that it be removed
 about: Remove your lua in this respiratory
 title: ''
 labels: documentation
