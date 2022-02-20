@@ -6,3 +6,6 @@ function opponentNoteHit() --insert your opponent name here at == 'opponent'
 		end
 	end
 end
+
+--by someone
+--Mods And Scripts
