@@ -1,4 +1,4 @@
-function opponentNoteHit()
+function opponentNoteHit() --If you edit, the health drain will simply break.
     health = getProperty('health')
     if getProperty('health') > 0.0 then
         setProperty('health', health- 0.023);
