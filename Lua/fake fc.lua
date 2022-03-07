@@ -11,3 +11,5 @@ end
 function onUpdate()
     setProperty('botplayTxt.visible', false)
 end
+
+--script by FridayNightGachaTrap 
