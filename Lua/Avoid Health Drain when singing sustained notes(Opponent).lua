@@ -6,3 +6,6 @@ function opponentNoteHit(id, noteData, noteType, isSustainNote)
 		end
 	end
 end
+
+--script by kingyomoma
+--modified by JorosTheModderPH
