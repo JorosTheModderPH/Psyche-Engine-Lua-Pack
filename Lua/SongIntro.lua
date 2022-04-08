@@ -76,3 +76,5 @@ function onTimerCompleted(tag, loops, loopsLeft)
 		doTweenX('MoveOutSeven', 'JukeBoxAnotherTextDifficulty', -450, 1.5, 'CircInOut')
 	end
 end
+
+--script by AetherLynx
